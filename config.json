@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "command-line-task-tracker",
+      "title": "Command-Line Task Tracker",
+      "description": "Build a command-line task tracker with persistent JSON storage",
+      "path": "assignments/command-line-task-tracker",
+      "dueDate": "2026-10-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
